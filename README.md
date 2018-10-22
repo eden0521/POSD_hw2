@@ -71,7 +71,3 @@
  Change assertion to assert exception string which is equal to "Not a triangle".
 
  7. Write the corresponding makefile to generate executable file which named **`hw2`**.
-
- 8. Make sure your project structure should be the same as [course project directory](https://ssl-gitlab.csie.ntut.edu.tw/yccheng/posd2018f "yccheng/posd2018f")
-
-
